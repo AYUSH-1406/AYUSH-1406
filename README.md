@@ -1,17 +1,17 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome✌&width=1800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate web developer & data scientist from India</h3>
+<h3 align="center">A passionate cloud & DevOps engineer</h3>
 <img align='right' alt='coding' width='400'src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-1406&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-1406" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis,Data Science and React**
+- 🌱 I’m currently learning **Cloud and DevOps**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **DevOps and Cloud**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Cloud and DevOps**
 
-- 💬 Ask me about **React,Python and Visualization**
+- 💬 Ask me about **AWS, Azure and DevOps **
 
 - 📫 How to reach me **ayushsri1406@gmail.com**
 
